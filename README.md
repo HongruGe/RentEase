@@ -1,0 +1,2 @@
+# RentEase
+RentEase is an apartment rental platform that includes both a mobile app and a backend management system. It utilizes a frontend-backend separation model with Vue3 for the frontend, and a Java-based backend using Spring Boot, MyBatis Plus, and Spring MVC. Data storage solutions include MySQL for relational databases, Redis for caching, and MinIO for object storage. The frontend is deployed on an Nginx server.
